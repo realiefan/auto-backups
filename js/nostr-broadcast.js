@@ -39,5 +39,8 @@ const pubkeys = ['npub1ctpqas992k2ewy72f3qycnfveq8xewgx7kmyy9c8qcf2pjhzn33qauqp9
 'npub148ut8u4vr8xqd4gefhg6eyc5636p5zthw3zfse2njfkezegczers59ty0w',
 'npub1qznglvejddru5y054ag6ldjf54emh8uzk5rjg3kc5svrnhkmp58q658xzy',
 'npub1j0edavp956frcvh2nx80mm70s4upljykrdadumdlq06rvffzza5q2djqnu',
-'npub16dqpnqjq4k6m8q8uv6dkhmghuwphy3hk2wmgqhwsseak4l72wjsq80gmyu']
+'npub16dqpnqjq4k6m8q8uv6dkhmghuwphy3hk2wmgqhwsseak4l72wjsq80gmyu',
+'npub15tvl09jxrcujd6pddlczvcd7tlzh60tt8vcmd2hhvdzdhq5quvcs7nnc0q',
+'npub133ah8hpdmqz9u265tttga6ktecz4904mdvvkju0jut5vlxatft7qkrt7f4',
+'npub1a5hfm8xst4farl5pf70vuxqn42flvxt2pqquselju02a2jfad4rqdv2dl7']
 $('#fetch-and-broadcast').click(() => fetchAndBroadcastAll(pubkeys))
