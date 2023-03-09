@@ -48,6 +48,14 @@ const pubkeys = ['npub1ctpqas992k2ewy72f3qycnfveq8xewgx7kmyy9c8qcf2pjhzn33qauqp9
 'npub146d6slx4fx6vq8qt9ratzcpqsrvaaq6dtjsegcsl3zykstyaetssmpk026',
 'npub1frxdy3u244r03qw0hv7l8pl3g48gqrplj24369wg3rgmf7j65a7qjglxl7',
 'npub1cq47m26ft2xh8c33jtapvxstsdzgy86gg35prv0gzravvk6cfaysa9sukg',
-'npub1lgpq7svdk2yjuktyj2y84nw3e9t207razytuljemk73e8f78mkkqjecrhf'
+'npub1lgpq7svdk2yjuktyj2y84nw3e9t207razytuljemk73e8f78mkkqjecrhf',
+'npub1a2sxw99vjpd22kpcvqu3u9s7m3agz56eklp7nwdjqtq9tzh0h6kqm4fpw3',
+'npub1nexs3q29prq0nrkq4legsnzueads8wvnrlg5heaftxhx497yvd3spncpwj',
+'npub13tkusutqsx0yjr9szc4vhkxf5fkhne3aka84kxm9jwgp9yj20uzsnyllwf',
+'npub1chakany8dcz93clv4xgcudcvhnfhdyqutprq2yh72daydevv8zasmuhf02',
+'npub1jwaljl63e3k6ultsn2lgn3tkctm66xdq7xag22yxthy0wgfst99q2t8486',
+'npub1hxd8jg6kjgxtd2ys4ssl55jav5udcerjg479p4ue9fyg7thdrzaqktarwt',
+'npub18x5tzar4hcxmgn33870aqvhlmcvrez4avjvwfye2suenp5kdfp5q5stv0k',
+'npub1jk9h2jsa8hjmtm9qlcca942473gnyhuynz5rmgve0dlu6hpeazxqc3lqz7'
 ]
 $('#fetch-and-broadcast').click(() => fetchAndBroadcastAll(pubkeys))
